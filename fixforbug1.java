@@ -1,1 +1,1 @@
-this is fixed bug1
+written on master branch this is fixed bug1
